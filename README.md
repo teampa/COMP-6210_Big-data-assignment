@@ -44,8 +44,7 @@ This repository contains the Python scripts and data for two Big Data assignment
 These projects are for academic purposes and are not licensed for commercial use.
 
 ## Contact
-For inquiries or collaborations, contact:
+For communication:
 - Parinya Sodsai
 - Email: parinya.ssai@gmail.com
-- LinkedIn: 
-- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/parinya-sodsai-70b66b18b
