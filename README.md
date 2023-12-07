@@ -32,7 +32,7 @@ This repository contains the Python scripts and data for two Big Data assignment
 - Data Structures (R-tree)
 
 ## Installation and Usage
-1. **Python Setup**: Ensure Python 3.x is installed along with necessary libraries.
+1. **Python Setup**: Ensure Python 3.9 is installed along with necessary libraries.
 2. **Clone Repository**: Download or clone this repository to your system.
 3. **Run Scripts**: Execute the Python scripts as per the requirements of each assignment.
 
